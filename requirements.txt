@@ -1,0 +1,5 @@
+claude-agent-sdk
+fastapi
+uvicorn
+pytest
+httpx

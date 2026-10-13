@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.superpowers/
+.DS_Store
+
+# 個人用の設定と記憶(公開しない)
+config.json
+memory/
+
+# macOS のエイリアスファイル(環境依存)
+*エイリアス
